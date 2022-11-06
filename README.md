@@ -1,6 +1,6 @@
 # Basketball Scoreboard via vb.net
 
-This is a Basketball Scoreboard with a Controller, coded in Visual Basic.net. The controller allows the user to add/subtract points, manage and control the main display, just like a physical scoreboard & controller! You can add scores (+1, +2, and +3) and subtract scores (-1, -2, and -3). You have the ability to add and subtract how many fouls, blocks and steals each team has. Additionally, you can change the stadium and team names!
+This is a Basketball Scoreboard with a Controller written in Visual Basic.net. Like a traditional scoreboard and controller, the controller enables the user to manage and control the primary display, add/subtract points, and more! Scores can be added (+1, +2, and +3) as well as subtracted (-1, -2, and -3). You may add and subtract how many fouls, blocks, and steals each team has. You may also modify the team names, stadium, and time!
 
 
 Yash Batish 2022.
